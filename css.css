@@ -1,0 +1,11 @@
+.header-icones i {
+    font-size: 20px;
+}
+.fa-search {
+    padding-left: 8px;
+}
+.contenu {
+    background-image: url(./img/pageBcg/bannerBcg.jpeg);
+    background-position:center center;
+    height: 450px;
+}
